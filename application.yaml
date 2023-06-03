@@ -1,4 +1,4 @@
-ureka:
+eureka:
   client:
     fetch-registry: true
     register-with-eureka: true
